@@ -5,7 +5,7 @@
 ![VLSI](https://img.shields.io/badge/Focus-VLSI-blue)
 ![Embedded Systems](https://img.shields.io/badge/Focus-Embedded%20Systems-green)
 ![Analog Design](https://img.shields.io/badge/Focus-Analog%20Design-red)
-![Digital Design](https://img.shields.io/badge/Focus-Digital%20Electronics-yellow)
+![Digital Design](https://img.shields.io/badge/Focus-Digital%20Design-yellow)
 ![FPGA](https://img.shields.io/badge/Focus-FPGA-purple)
 ![ASIC](https://img.shields.io/badge/Focus-ASIC-orange)
 
