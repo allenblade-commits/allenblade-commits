@@ -1,11 +1,11 @@
 # 🌟 ALLEN STANLEY 🌟
 
-👋 Hi, I'm **ALLEN STANLEY**, a tech enthusiast with a strong focus on VLSI Design, Embedded Systems, Analog Design, Digital Electronics, Physical Design, Static Timing Analysis, FPGA, and ASIC. I enjoy building efficient systems, whether it's optimizing hardware designs or developing innovative IoT solutions. My goal is to create technology that blends performance, power efficiency, and practical application.
+👋 Hi, I'm **ALLEN STANLEY**, a tech enthusiast with a strong focus on VLSI Design, Embedded Systems, Analog Design, Digital Design, Physical Design, Static Timing Analysis, FPGA, and ASIC. I enjoy building efficient systems, whether it's optimizing hardware designs or developing innovative IoT solutions. My goal is to create technology that blends performance, power efficiency, and practical application.
 
 ![VLSI](https://img.shields.io/badge/Focus-VLSI-blue)
 ![Embedded Systems](https://img.shields.io/badge/Focus-Embedded%20Systems-green)
 ![Analog Design](https://img.shields.io/badge/Focus-Analog%20Design-red)
-![Digital Electronics](https://img.shields.io/badge/Focus-Digital%20Electronics-yellow)
+![Digital Design](https://img.shields.io/badge/Focus-Digital%20Electronics-yellow)
 ![FPGA](https://img.shields.io/badge/Focus-FPGA-purple)
 ![ASIC](https://img.shields.io/badge/Focus-ASIC-orange)
 
