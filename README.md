@@ -15,8 +15,9 @@
 - **Languages**: English, Malayalam, Tamil, French, German, Kannada, Hindi.
 
 ## 🏆 Achievements
+- **GATE-2025 Qualified in Electronics & Communications** (Mar. 2025)
 - **AWS Cloud Practitioner** (Dec. 2023 – Dec. 2026)
-- **GATE Qualified in Electronics & Communications** (Mar. 2024)
+- **GATE-2024 Qualified in Electronics & Communications** (Mar. 2024)
 - **Design Patent**: Women Safety Patrolling Robot (2024)
 
 ## 📫 Contact
